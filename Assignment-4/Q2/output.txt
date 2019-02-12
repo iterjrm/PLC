@@ -1,0 +1,8 @@
+rate - Identifier
+R2D2 - Identifier
+48 - Number
+2 - Number
+2$ - Invalid
+#$# - Invalid
+time - Identifier
+555666 - Number
